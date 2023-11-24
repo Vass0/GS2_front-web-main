@@ -1,0 +1,16 @@
+{
+  "cadastros": [
+    {
+      "email": "",
+      "nome": "",
+      "senha": "",
+      "id": "hdB3rMm"
+    },
+    {
+      "email": "lucas@gmail.com",
+      "nome": "Lucas",
+      "senha": "123",
+      "id": "eoGH7fj"
+    }
+  ]
+}
